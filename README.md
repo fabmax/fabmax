@@ -7,4 +7,4 @@ In my free time, I like to create stuff:
 - :radio: Hardware & electronics
 - :hammer: Sometimes even furniture
 
-[![kool physics](banner.jpg)](https://fabmax.github.io/kool/kool-js/?demo=physics)
+[![kool physics](banner.jpg)](https://kool-engine.github.io/live/demos/?demo=physics)
