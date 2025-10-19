@@ -1,4 +1,4 @@
-### Hi there, I'm Max 👋
+### Hi, I'm Max 👋
 
 I'm a passionate Kotlin & Java developer dealing mostly with data analytics, visualization and simulation.
 
